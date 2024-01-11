@@ -1,8 +1,9 @@
 # Simple Java-based web crawler #
 ## Install ##
-There are two possible ways: 
-1. Clone this repo, and head into /release/0.0.2/bin directory, and run crawl. Or
+There are three possible ways: 
+1. Clone this repo, and head into /release/0.0.2/bin directory, and run crawl. (simplest).
 2. Clone this repo, and unpack the .zip file under the /release/0.0.2 folder in local folder of your choice.
+3. Install maven on your system, and run mvn packge to build the (modified) project. See /src/main/resources/crawl.bat for details on how to start it.
 
 Pre-requisite:
 - Java 8 or newer installed on your system.
