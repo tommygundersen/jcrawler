@@ -7,6 +7,9 @@ Pre-requisite:
 
 ## Usage ##
 
+Use the command bin/crawl:
+
+
 	Usage: crawl -u <url> -x [xpath] -d [crawling depth] -o [output] [--flatten]
 	crawl -u https://jsoup.org -x //div[@class='col1']/p,//div[@class='col2']/p -d 2 -o /users/name/output --flatten
 	Arguments:
