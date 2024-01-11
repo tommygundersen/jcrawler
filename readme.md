@@ -1,6 +1,8 @@
 # Simple Java-based web crawler #
 ## Install ##
-Unpack the .zip file under the /release/0.0.2 folder in local folder of your choice.
+There are two possible ways: 
+1. Clone this repo, and head into /release/0.0.2/bin directory, and run crawl. Or
+2. Clone this repo, and unpack the .zip file under the /release/0.0.2 folder in local folder of your choice.
 
 Pre-requisite:
 - Java 8 or newer installed on your system.
